@@ -11,4 +11,5 @@
 1. Adicione a credencial do Google Sheets em `credentials.json`.
 2. Adicione o token gerado em `token.json`.
 3. Adicione o ID da planilha na variável `SAMPLE_SPREADSHEET_ID`.
+4. Deixe a planilha compartilhada para edição.
 ![image](https://github.com/PedroHSilva1999/API-dos-Correios-e-utilizando-API-do-Google-Sheets/assets/88673304/e9b5f06e-ebc8-4928-84b1-265e77d709c9)
